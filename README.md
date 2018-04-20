@@ -1,3 +1,1 @@
-# hello-world
-Starting out!
-I want to contribute to the HealthCare Community!
+# How to connect RDBMS Data to Ipython and Profile it (Also, find unique values in each field)
